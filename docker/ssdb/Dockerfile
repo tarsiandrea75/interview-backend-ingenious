@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.18.3
 LABEL maintainer="Leonard Buskin <leonardbuskin@gmail.com>"
 
 ARG VERSION=${VERSION:-master}
