@@ -1,3 +1,3 @@
-FROM grafana/grafana:latest
+FROM grafana/grafana:10.1.1-ubuntu
 
 EXPOSE 3000
