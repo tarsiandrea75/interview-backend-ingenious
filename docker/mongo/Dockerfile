@@ -1,4 +1,4 @@
-FROM mongo:latest
+FROM mongo:7
 
 LABEL maintainer="Mahmoud Zalt <mahmoud@zalt.me>"
 
