@@ -1,4 +1,4 @@
-FROM mongo:latest
+FROM mongo:8.0.4
 
 LABEL maintainer="Mahmoud Zalt <mahmoud@zalt.me>"
 
