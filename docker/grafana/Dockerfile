@@ -1,3 +1,3 @@
-FROM grafana/grafana:latest
+FROM grafana/grafana:12.3.0-18392635519
 
 EXPOSE 3000
