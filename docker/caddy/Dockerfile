@@ -1,4 +1,4 @@
-FROM caddy:latest
+FROM caddy:2.11
 
 COPY ./caddy/Caddyfile /etc/caddy/Caddyfile
 
