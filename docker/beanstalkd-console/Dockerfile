@@ -1,4 +1,4 @@
-FROM php:latest
+FROM php:8.5.3RC1-trixie
 
 LABEL maintainer="Mahmoud Zalt <mahmoud@zalt.me>"
 
