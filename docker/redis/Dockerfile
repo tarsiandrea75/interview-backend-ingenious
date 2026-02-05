@@ -1,4 +1,4 @@
-FROM redis:latest
+FROM redis:8.4.0-bookworm
 
 LABEL maintainer="Mahmoud Zalt <mahmoud@zalt.me>"
 
